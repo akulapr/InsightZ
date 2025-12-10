@@ -12,11 +12,11 @@ description: Generate detailed manual test cases in CSV format for the given use
 
 - The prompt will ask: "Please provide the User Story file path:"
  
-**Template Reference:** /workspaces/InsightZ/1_Base_Repo/Reference/Navigationsteps.md
+**Template Reference:** /workspaces/InsightZ/1_Base_Repo/Template/Template.md
 
-**Navigation Steps Reference:** `C:\Users\LAVANYA.CHITTAJALLU\copilot\OptimusCore\1_Base_Repo\Reference\navigation_steps.md`
+**Navigation Steps Reference:** /workspaces/InsightZ/1_Base_Repo/Reference/Navigationsteps.md
 
-**Output Location:** `C:\Users\LAVANYA.CHITTAJALLU\copilot\OptimusCore\4_Design_Studio\{filename}_TestCases.csv`
+**Output Location:** /workspaces/InsightZ/4_Design_Studio/Finaloutput.md
 
 - The prompt will ask: "Please provide the Output Location file path:"
 
