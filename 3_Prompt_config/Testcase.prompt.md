@@ -8,7 +8,7 @@ description: Generate detailed manual test cases in CSV format for the given use
 ## Input Requirements
  
 **User Story File Path:** Prompt user to provide the file path at runtime
-- Example: /workspaces/InsightZ/1_Base_Repo/Reference/Navigationsteps.md
+- Example: /workspaces/InsightZ/1_Base_Repo/Userstory/US_01.md
 
 - The prompt will ask: "Please provide the User Story file path:"
  
