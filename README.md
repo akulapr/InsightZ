@@ -1,2 +1,2 @@
-# InsightZ
-InsightZ
+# CA programs
+CA Programs
