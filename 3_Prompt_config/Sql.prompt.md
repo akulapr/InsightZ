@@ -1,2 +1,1 @@
-Select * from Employee
-where EmpId is not null;
+Select * from an_ods_q01.pgm_qa_gold.program_phoenix_gold
