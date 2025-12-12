@@ -58,7 +58,7 @@ For each scenario **explicitly mentioned in the user story**, generate **exactly
 - Test Type: Manual
 - Test Case Name: Full descriptive name following format
 - Description: Complete objective of the test case
-- Action: First action step (numbered as "1. ")
+- Action Steps: First action step (numbered as "1. ")
 - Expected Result: First expected result (numbered as "1. ")
 - Test Repository Path: Full path to test repository
 - Status: Done / In Progress / Not Started
@@ -72,7 +72,7 @@ For each scenario **explicitly mentioned in the user story**, generate **exactly
 - Test Type: Leave empty or repeat
 - Test Case Name: Leave empty
 - Description: Leave empty
-- Action: Next action step (numbered as "2. ", "3. ", etc.)
+- Action Steps: Next action step (numbered as "2. ", "3. ", etc.)
 - Expected Result: Next expected result (numbered as "2. ", "3. ", etc.)
 - Test Repository Path: Leave empty
 - Status: Leave empty
@@ -88,7 +88,7 @@ For each scenario **explicitly mentioned in the user story**, generate **exactly
 - **Test Type:** Manual
 - **Test Case Name:** {Format: TC{ID}_{Scenario name}_{LOB/Module}_{Transaction Type}_{Acceptance Criteria}}
 - **Description:** {Clear description of the objective and what the test case validates}
-- **Action:** {Single action step - one per row}
+- **Action Steps:** {Single action step - one per row}
 - **Expected Result:** {Expected result for the corresponding action - one per row}
 - **Test Repository Path:** {Path to test repository}
 - **Status:** Done / In Progress / Not Started
@@ -146,7 +146,7 @@ TC ID,Test Type,Test Case Name,Description,Action,Expected Result,Test Repositor
    - Test Type: Empty
    - Test Case Name: Empty
    - Description: Empty
-   - Action: Next Action step (numbered as "2. ", "3. ", etc.) - IN THE ACTION COLUMN ONLY
+   - Action Steps: Next Action step (numbered as "2. ", "3. ", etc.) - IN THE ACTION COLUMN ONLY
    - Expected Result: Next Expected Result (numbered as "2. ", "3. ", etc.) - IN THE EXPECTED RESULT COLUMN ONLY
    - Test Repository Path: Empty
    - Status: Empty
